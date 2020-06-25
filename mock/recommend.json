@@ -1,0 +1,46 @@
+{
+  "recommend": [
+    {
+      "cid":2,
+      "bid":1,
+      "name": "物种起源",
+      "price": 14,
+      "img":"/src/static/img/science/wz.jpg"
+    },
+    {
+      "cid":3,
+      "bid":1,
+      "name": "倾城之恋",
+      "price": 10,
+      "img":"/src/static/img/literature/qc.jpg"
+    },
+    {
+      "cid":1,
+      "bid":2,
+      "name": "乡土中国",
+      "price": 13,
+      "img":"/src/static/img/humanity/xt.jpg"
+    },
+    {
+      "cid":2,
+      "bid":2,
+      "name": "果壳中的宇宙",
+      "price": 30,
+      "img":"/src/static/img/science/gk.jpg"
+    },
+    {
+      "cid":3,
+      "bid":2,
+      "name": "傲慢与偏见",
+      "price": 10,
+      "img":"/src/static/img/literature/am.jpg"
+    },
+    {
+      "cid":3,
+      "bid":5,
+      "name": "人间失格",
+      "price": 10,
+      "img":"/src/static/img/literature/rj.jpg"
+    }
+  ]
+}

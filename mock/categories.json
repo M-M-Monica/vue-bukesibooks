@@ -1,0 +1,499 @@
+{
+	"categories": [
+    {
+      "id":1,
+      "books":[
+        {
+          "id":1,
+          "name": "如何阅读一本书(九品)",
+          "author":"莫提默·J.艾德勒等",
+          "price": 18,
+          "count":1,
+          "img":"/src/static/img/humanity/rh.jpg",
+          "details":{
+            "introduce":"每本书的封面之下都有一套自己的骨架，作为一个分析阅读的读者，责任就是要找出这个骨架。一本书出现在面前时，肌肉包着骨头，衣服包裹着肌肉，可说是盛装而来。读者用不着揭开它的外衣或是撕去它的肌肉来得到在柔软表皮下的那套骨架，但是一定要用一双X光般的透视眼来看这本书，因为那是了解一本书、掌握其骨架的基础。",
+            "images":[
+              {"img":"/src/static/img/humanity/rh1.jpg"},
+              {"img":"/src/static/img/humanity/rh2.jpg"},
+              {"img":"/src/static/img/humanity/rh3.jpg"}
+            ]
+          }
+        },        
+        {
+          "id":2,
+          "name": "乡土中国(九五品)",
+          "author":"费孝通",
+          "price": 13,
+          "count":1,
+          "img":"/src/static/img/humanity/xt.jpg",
+          "details":{
+            "introduce":"《未名社科•大学经典:乡土中国》是从社区研究转入社会结构分析的一种尝试，对中国社会学而言，极具示范性和开创性。精选中外社会科学经典名著，尤其是具有学科元典意义的社科名著，或重译或重编，增加名师点评和插图，致力于为我国读者打造易读宜藏的经典精粹。",
+            "images":[
+              {"img":"/src/static/img/humanity/xt1.jpg"},
+              {"img":"/src/static/img/humanity/xt2.jpg"},
+              {"img":"/src/static/img/humanity/xt3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":3,
+          "name": "叫魂(八品)",
+          "author":"孔飞力",
+          "price": 13,
+          "count":1,
+          "img":"/src/static/img/humanity/jh.jpg",
+          "details":{
+            "introduce":"《叫魂:1768年中国妖术大恐慌》中在中国的千年帝制时代，清高宗弘历可谓是空前绝后的一人，然而在乾隆盛世达到登峰造极的时候，整个大清的政治与社会生活却被一股名为“叫魂”的妖术搅得天昏地暗。在1768年从春天到秋天的那几个月里，这股妖风冲击到了半个中国，百姓为之人心惶惶，官员为之疲于奔命，皇帝为之寝食不宁。在讲述叫魂故事的过程中，《叫魂:1768年中国妖术大恐慌》重在讨论这背后的历史意蕴。叫魂故事可以帮助我们理解传统中国政治和中国社会的一些基本问题。",
+            "images":[
+              {"img":"/src/static/img/humanity/jh1.jpg"},
+              {"img":"/src/static/img/humanity/jh2.jpg"},
+              {"img":"/src/static/img/humanity/jh3.jpg"}
+            ]
+          } 
+        },
+        {
+          "id":4,
+          "name": "全球通史(九品)",
+          "author":"斯塔夫里阿诺斯",
+          "price": 35,
+          "count":1,
+          "img":"/src/static/img/humanity/qq.jpg",
+          "details":{
+            "introduce":"主要讲述了世界历史的进化，世界文明的发展及其对现代社会的影响。作者着眼于全球，侧重于那些有影响的、促进历史发展的历史事件，其中包括原始社会、欧亚大陆的古代文明、欧亚大陆的原始文明、欧亚以外的世界、地区分割后的世界、西方世界的崛起、西方人统治的世界、西方的衰落与成功等八个主要的部分。",
+            "images":[
+              {"img":"/src/static/img/humanity/qq1.jpg"},
+              {"img":"/src/static/img/humanity/qq2.jpg"},
+              {"img":"/src/static/img/humanity/qq3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":5,
+          "name": "人类简史(七五品)",
+          "author":"尤瓦尔·赫拉利",
+          "price": 38,
+          "count":1,
+          "img":"/src/static/img/humanity/rl.jpg",
+          "details":{
+            "introduce":"《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？",
+            "images":[
+              {"img":"/src/static/img/humanity/rl1.jpg"},
+              {"img":"/src/static/img/humanity/rl2.jpg"},
+              {"img":"/src/static/img/humanity/rl3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":6,
+          "name": "如何阅读一本书(九五品)",
+          "author":"莫提默·J.艾德勒等",
+          "price": 20,
+          "count":1,
+          "img":"/src/static/img/humanity/rh.jpg",
+          "details":{
+            "introduce":"每本书的封面之下都有一套自己的骨架，作为一个分析阅读的读者，责任就是要找出这个骨架。一本书出现在面前时，肌肉包着骨头，衣服包裹着肌肉，可说是盛装而来。读者用不着揭开它的外衣或是撕去它的肌肉来得到在柔软表皮下的那套骨架，但是一定要用一双X光般的透视眼来看这本书，因为那是了解一本书、掌握其骨架的基础。",
+            "images":[
+              {"img":"/src/static/img/humanity/rh1.jpg"},
+              {"img":"/src/static/img/humanity/rh2.jpg"},
+              {"img":"/src/static/img/humanity/rh3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":7,
+          "name": "乡土中国(九品)",
+          "author":"费孝通",
+          "price": 10,
+          "count":1,
+          "img":"/src/static/img/humanity/xt.jpg",
+          "details":{
+            "introduce":"《未名社科•大学经典:乡土中国》是从社区研究转入社会结构分析的一种尝试，对中国社会学而言，极具示范性和开创性。精选中外社会科学经典名著，尤其是具有学科元典意义的社科名著，或重译或重编，增加名师点评和插图，致力于为我国读者打造易读宜藏的经典精粹。",
+            "images":[
+              {"img":"/src/static/img/humanity/xt1.jpg"},
+              {"img":"/src/static/img/humanity/xt2.jpg"},
+              {"img":"/src/static/img/humanity/xt3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":8,
+          "name": "叫魂(八五品)",
+          "author":"孔飞力",
+          "price": 15,
+          "count":1,
+          "img":"/src/static/img/humanity/jh.jpg",
+          "details":{
+            "introduce":"《叫魂:1768年中国妖术大恐慌》中在中国的千年帝制时代，清高宗弘历可谓是空前绝后的一人，然而在乾隆盛世达到登峰造极的时候，整个大清的政治与社会生活却被一股名为“叫魂”的妖术搅得天昏地暗。在1768年从春天到秋天的那几个月里，这股妖风冲击到了半个中国，百姓为之人心惶惶，官员为之疲于奔命，皇帝为之寝食不宁。在讲述叫魂故事的过程中，《叫魂:1768年中国妖术大恐慌》重在讨论这背后的历史意蕴。叫魂故事可以帮助我们理解传统中国政治和中国社会的一些基本问题。",
+            "images":[
+              {"img":"/src/static/img/humanity/jh1.jpg"},
+              {"img":"/src/static/img/humanity/jh2.jpg"},
+              {"img":"/src/static/img/humanity/jh3.jpg"}
+            ] 
+          } 
+        },
+        {
+          "id":9,
+          "name": "全球通史(九五品)",
+          "author":"斯塔夫里阿诺斯",
+          "price": 40,
+          "count":1,
+          "img":"/src/static/img/humanity/qq.jpg",
+          "details":{
+            "introduce":"主要讲述了世界历史的进化，世界文明的发展及其对现代社会的影响。作者着眼于全球，侧重于那些有影响的、促进历史发展的历史事件，其中包括原始社会、欧亚大陆的古代文明、欧亚大陆的原始文明、欧亚以外的世界、地区分割后的世界、西方世界的崛起、西方人统治的世界、西方的衰落与成功等八个主要的部分。",
+            "images":[
+              {"img":"/src/static/img/humanity/qq1.jpg"},
+              {"img":"/src/static/img/humanity/qq2.jpg"},
+              {"img":"/src/static/img/humanity/qq3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":10,
+          "name": "人类简史(八品)",
+          "author":"尤瓦尔·赫拉利",
+          "price": 43,
+          "count":1,
+          "img":"/src/static/img/humanity/rl.jpg",
+          "details":{
+            "introduce":"《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？",
+            "images":[
+              {"img":"/src/static/img/humanity/rl1.jpg"},
+              {"img":"/src/static/img/humanity/rl2.jpg"},
+              {"img":"/src/static/img/humanity/rl3.jpg"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id":2,
+      "books":[
+        {
+          "id":1,
+          "name": "物种起源(九品)",
+          "author":"达尔文",
+          "price": 14,
+          "count":1,
+          "img":"/src/static/img/science/wz.jpg",
+          "details":{
+            "introduce":"在该书中，达尔文首次提出了进化论的观点。他使用自己在19世纪30年代环球科学考察中积累的资料，试图证明物种的演化是通过自然选择（天择）和人工选择（人择）的方式实现的。他认为世界上形形色色的生物不是上帝创造的，而是因生物进化产生的。这种规律有迹可循，它们从简单到复杂，从低级到高级，不断发展。此番言论推翻了物种不变论的形而上学的观点，影响深远，是一次伟大的革命。",
+            "images":[
+              {"img":"/src/static/img/science/wz1.jpg"},
+              {"img":"/src/static/img/science/wz2.jpg"},
+              {"img":"/src/static/img/science/wz3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":2,
+          "name": "果壳中的宇宙(八品)",
+          "author":"史蒂芬·霍金",
+          "price": 30,
+          "count":1,
+          "img":"/src/static/img/science/gk.jpg",
+          "details":{
+            "introduce":"在《果壳中的宇宙》这部新作中，霍金把读者带到理论物理的最前沿，真理在那里甚至比幻想更令人眼花缭乱。他利用通俗的语言解释制约着宇宙的原理。",
+            "images":[
+              {"img":"/src/static/img/science/gk1.jpg"},
+              {"img":"/src/static/img/science/gk2.jpg"},
+              {"img":"/src/static/img/science/gk3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":3,
+          "name": "素数的奥秘(七品)",
+          "author":"堀場芳数 ",
+          "price": 5,
+          "count":1,
+          "img":"/src/static/img/science/ss.jpg",
+          "details":{
+            "introduce":"本书以通俗易懂的语言讲解了什么是素数，并穿插有关科学家的小故事，讲述了素数的发现和发展，并简单介绍了素数的应用，使读者对素数有较深的认识。本书适合中小学生阅读。",
+            "images":[
+              {"img":"/src/static/img/science/ss1.jpg"},
+              {"img":"/src/static/img/science/ss2.jpg"},
+              {"img":"/src/static/img/science/ss3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":4,
+          "name": "相对论(九五品)",
+          "author":"阿尔伯特·爱因斯坦",
+          "price": 28,
+          "count":1,
+          "img":"/src/static/img/science/xd.jpg",
+          "details":{
+            "introduce":"这是一部彻底颠覆经典物理学观念的创世之书。它否定了牛顿的绝对时空观，认为空间不是平直的欧几里得空间，而是在引力场中弯曲的黎曼空间；时间也不是独立于空间的单独一维，它无时无刻不在空间之中，与空间构成一个统一的四维时空整体。这是一部并非凭借双眼，而是用智慧发现并创建了宇宙新秩序的书。它揭示了宇宙所具有的超乎寻常的秘密；同时性的相对性；运动中的钟慢、尺缩效应；水星的近日点异动；光谱红移；引力场中时钟变慢等。",
+            "images":[
+              {"img":"/src/static/img/science/xd1.jpg"},
+              {"img":"/src/static/img/science/xd2.jpg"},
+              {"img":"/src/static/img/science/xd3.jpg"}
+            ]
+          } 
+        },
+        {
+          "id":5,
+          "name": "时间简史(八五品)",
+          "author":"史蒂芬·霍金",
+          "price": 25,
+          "count":1,
+          "img":"/src/static/img/science/sjj.jpg",
+          "details":{
+            "introduce":"《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞、黑洞不是这么黑、时间箭头等内容。第一版中的许多理论预言，后来在对微观或宏观宇宙世界观测中得到证实。",
+            "images":[
+              {"img":"/src/static/img/science/sjj1.jpg"},
+              {"img":"/src/static/img/science/sjj2.jpg"},
+              {"img":"/src/static/img/science/sjj3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":6,
+          "name": "物种起源(九五品)",
+          "author":"达尔文",
+          "price": 17,
+          "count":1,
+          "img":"/src/static/img/science/wz.jpg",
+          "details":{
+            "introduce":"在该书中，达尔文首次提出了进化论的观点。他使用自己在19世纪30年代环球科学考察中积累的资料，试图证明物种的演化是通过自然选择（天择）和人工选择（人择）的方式实现的。他认为世界上形形色色的生物不是上帝创造的，而是因生物进化产生的。这种规律有迹可循，它们从简单到复杂，从低级到高级，不断发展。此番言论推翻了物种不变论的形而上学的观点，影响深远，是一次伟大的革命。",
+            "images":[
+              {"img":"/src/static/img/science/wz1.jpg"},
+              {"img":"/src/static/img/science/wz2.jpg"},
+              {"img":"/src/static/img/science/wz3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":7,
+          "name": "果壳中的宇宙(八五品)",
+          "author":"史蒂芬·霍金",
+          "price": 37,
+          "count":1,
+          "img":"/src/static/img/science/gk.jpg",
+          "details":{
+            "introduce":"在《果壳中的宇宙》这部新作中，霍金把读者带到理论物理的最前沿，真理在那里甚至比幻想更令人眼花缭乱。他利用通俗的语言解释制约着宇宙的原理。",
+            "images":[
+              {"img":"/src/static/img/science/gk1.jpg"},
+              {"img":"/src/static/img/science/gk2.jpg"},
+              {"img":"/src/static/img/science/gk3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":8,
+          "name": "素数的奥秘(七五品)",
+          "author":"堀場芳数 ",
+          "price": 7,
+          "count":1,
+          "img":"/src/static/img/science/ss.jpg",
+          "details":{
+            "introduce":"本书以通俗易懂的语言讲解了什么是素数，并穿插有关科学家的小故事，讲述了素数的发现和发展，并简单介绍了素数的应用，使读者对素数有较深的认识。本书适合中小学生阅读。",
+            "images":[
+              {"img":"/src/static/img/science/ss1.jpg"},
+              {"img":"/src/static/img/science/ss2.jpg"},
+              {"img":"/src/static/img/science/ss3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":9,
+          "name": "相对论(九品)",
+          "author":"阿尔伯特·爱因斯坦",
+          "price": 24,
+          "count":1,
+          "img":"/src/static/img/science/xd.jpg",
+          "details":{
+            "introduce":"这是一部彻底颠覆经典物理学观念的创世之书。它否定了牛顿的绝对时空观，认为空间不是平直的欧几里得空间，而是在引力场中弯曲的黎曼空间；时间也不是独立于空间的单独一维，它无时无刻不在空间之中，与空间构成一个统一的四维时空整体。这是一部并非凭借双眼，而是用智慧发现并创建了宇宙新秩序的书。它揭示了宇宙所具有的超乎寻常的秘密；同时性的相对性；运动中的钟慢、尺缩效应；水星的近日点异动；光谱红移；引力场中时钟变慢等。",
+            "images":[
+              {"img":"/src/static/img/science/xd1.jpg"},
+              {"img":"/src/static/img/science/xd2.jpg"},
+              {"img":"/src/static/img/science/xd3.jpg"}
+            ]
+          }  
+        },
+        {
+          "id":10,
+          "name": "时间简史(八品)",
+          "author":"史蒂芬·霍金",
+          "price": 22,
+          "count":1,
+          "img":"/src/static/img/science/sjj.jpg",
+          "details":{
+            "introduce":"《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞、黑洞不是这么黑、时间箭头等内容。第一版中的许多理论预言，后来在对微观或宏观宇宙世界观测中得到证实。",
+            "images":[
+              {"img":"/src/static/img/science/sjj1.jpg"},
+              {"img":"/src/static/img/science/sjj2.jpg"},
+              {"img":"/src/static/img/science/sjj3.jpg"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id":3,
+      "books":[
+        {
+          "id":1,
+          "name": "倾城之恋(九品)",
+          "author":"张爱玲",
+          "price": 10,
+          "count":1,
+          "img":"/src/static/img/literature/qc.jpg",
+          "details":{
+            "introduce": "白流苏和范柳原这一对现实庸俗的男女，在战争的兵荒马乱之中被命运掷骰子般地掷到了一起，于“一刹那”体会到了“一对平凡的夫妻”之间的“一点真心”。本书收录张爱玲于一九四三年至一九四四年创作的中短篇小说，包括《第一炉香》《第二炉香》《茉莉香片》《心经》等。",
+            "images":[
+              {"img":"/src/static/img/literature/qc1.jpg"},
+              {"img":"/src/static/img/literature/qc2.jpg"},
+              {"img":"/src/static/img/literature/qc3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":2,
+          "name": "傲慢与偏见(九品)",
+          "author":"简•奥斯丁",
+          "price": 10,
+          "count":1,
+          "img":"/src/static/img/literature/am.jpg",
+          "details":{
+            "introduce":"《傲慢与偏见》是简•奥斯丁的代表作，一部描写爱情与婚姻的小说。小说围绕班奈特太太如何把五个女儿嫁出去的主题展开。达西富有骄傲，代表傲慢；伊丽沙白聪明任性，代表偏见。最后，真爱终于打破了这种傲慢和偏见，小说在结婚典礼中结束，奥斯丁在这部小说中饶有风趣地反映了18世纪末、19世纪初英国乡情风俗和世态人情，给人以艺术的想象，是一部社会风俗喜剧佳作。",
+            "images":[
+              {"img":"/src/static/img/literature/am1.jpg"},
+              {"img":"/src/static/img/literature/am2.jpg"},
+              {"img":"/src/static/img/literature/am3.jpg"}
+            ]
+          }      
+        },
+        {
+          "id":3,
+          "name": "了不起的盖茨比(八品)",
+          "author":"弗·司各特·菲茨杰拉德",
+          "price": 13,
+          "count":1,
+          "img":"/src/static/img/literature/lb.jpg",
+          "details":{
+            "introduce":"中西部小子盖茨比到东部闯荡一夕致富，他在自己的豪宅夜夜宴客，俨然慷慨荒唐的富豪大亨；他梦幻地看着纽约长岛上一座闪着绿光的灯塔，寻觅着梦寐以求的女人黛西。邻居尼克，眼看着盖茨比的宾客们接受他的招待却冷漠无情，眼看着盖茨比奋力追求那腐败的虚华。盖兹比最后的结局，让尼克对东部浮华的名流生活梦碎，宛如看着繁华楼起再看着它楼塌。",
+            "images":[
+              {"img":"/src/static/img/literature/lb1.jpg"},
+              {"img":"/src/static/img/literature/lb2.jpg"},
+              {"img":"/src/static/img/literature/lb3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":4,
+          "name": "活着(八品)",
+          "author":"余华",
+          "price": 11,
+          "count":1,
+          "img":"/src/static/img/literature/hz.jpg",
+          "details":{
+            "introduce":"讲述了农村人福贵悲惨的人生遭遇。福贵本是个阔少爷，可他嗜赌如命，终于赌光了家业，一贫如洗。他的父亲被他活活气死，母亲则在穷困中患了重病，福贵前去求药，却在途中被国民党抓去当壮丁。经过几番波折回到家里，才知道母亲早已去世，妻子家珍含辛茹苦地养大两个儿女。此后更加悲惨的命运一次又一次降临到福贵身上，他的妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命，但老人依旧活着，仿佛比往日更加洒脱与坚强。",
+            "images":[
+              {"img":"/src/static/img/literature/hz1.jpg"},
+              {"img":"/src/static/img/literature/hz2.jpg"},
+              {"img":"/src/static/img/literature/hz3.jpg"}
+            ]
+          }  
+        },
+        {
+          "id":5,
+          "name": "人间失格(七品)",
+          "author":"太宰治",
+          "price": 10,
+          "count":1,
+          "img":"/src/static/img/literature/rj.jpg",
+          "details":{
+            "introduce":"《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
+            "images":[
+              {"img":"/src/static/img/literature/rj1.jpg"},
+              {"img":"/src/static/img/literature/rj2.jpg"},
+              {"img":"/src/static/img/literature/rj3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":6,
+          "name": "倾城之恋(九五品)",
+          "author":"张爱玲",
+          "price": 15,
+          "count":1,
+          "img":"/src/static/img/literature/qc.jpg",
+          "details":{
+            "introduce": "白流苏和范柳原这一对现实庸俗的男女，在战争的兵荒马乱之中被命运掷骰子般地掷到了一起，于“一刹那”体会到了“一对平凡的夫妻”之间的“一点真心”。本书收录张爱玲于一九四三年至一九四四年创作的中短篇小说，包括《第一炉香》《第二炉香》《茉莉香片》《心经》等。",
+            "images":[
+              {"img":"/src/static/img/literature/qc1.jpg"},
+              {"img":"/src/static/img/literature/qc2.jpg"},
+              {"img":"/src/static/img/literature/qc3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":7,
+          "name": "傲慢与偏见(九五品)",
+          "author":"简•奥斯丁",
+          "price": 15,
+          "count":1,
+          "img":"/src/static/img/literature/am.jpg",
+          "details":{
+            "introduce":"《傲慢与偏见》是简•奥斯丁的代表作，一部描写爱情与婚姻的小说。小说围绕班奈特太太如何把五个女儿嫁出去的主题展开。达西富有骄傲，代表傲慢；伊丽沙白聪明任性，代表偏见。最后，真爱终于打破了这种傲慢和偏见，小说在结婚典礼中结束，奥斯丁在这部小说中饶有风趣地反映了18世纪末、19世纪初英国乡情风俗和世态人情，给人以艺术的想象，是一部社会风俗喜剧佳作。",
+            "images":[
+              {"img":"/src/static/img/literature/am1.jpg"},
+              {"img":"/src/static/img/literature/am2.jpg"},
+              {"img":"/src/static/img/literature/am3.jpg"}
+            ]
+          }       
+        },
+        {
+          "id":8,
+          "name": "了不起的盖茨比(八五品)",
+          "author":"弗·司各特·菲茨杰拉德",
+          "price": 15,
+          "count":1,
+          "img":"/src/static/img/literature/lb.jpg",
+          "details":{
+            "introduce":"中西部小子盖茨比到东部闯荡一夕致富，他在自己的豪宅夜夜宴客，俨然慷慨荒唐的富豪大亨；他梦幻地看着纽约长岛上一座闪着绿光的灯塔，寻觅着梦寐以求的女人黛西。邻居尼克，眼看着盖茨比的宾客们接受他的招待却冷漠无情，眼看着盖茨比奋力追求那腐败的虚华。盖兹比最后的结局，让尼克对东部浮华的名流生活梦碎，宛如看着繁华楼起再看着它楼塌。",
+            "images":[
+              {"img":"/src/static/img/literature/lb1.jpg"},
+              {"img":"/src/static/img/literature/lb2.jpg"},
+              {"img":"/src/static/img/literature/lb3.jpg"}
+            ]
+          }
+        },
+        {
+          "id":9,
+          "name": "活着(八五品)",
+          "author":"余华",
+          "price": 13,
+          "count":1,
+          "img":"/src/static/img/literature/hz.jpg",
+          "details":{
+            "introduce":"讲述了农村人福贵悲惨的人生遭遇。福贵本是个阔少爷，可他嗜赌如命，终于赌光了家业，一贫如洗。他的父亲被他活活气死，母亲则在穷困中患了重病，福贵前去求药，却在途中被国民党抓去当壮丁。经过几番波折回到家里，才知道母亲早已去世，妻子家珍含辛茹苦地养大两个儿女。此后更加悲惨的命运一次又一次降临到福贵身上，他的妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命，但老人依旧活着，仿佛比往日更加洒脱与坚强。",
+            "images":[
+              {"img":"/src/static/img/literature/hz1.jpg"},
+              {"img":"/src/static/img/literature/hz2.jpg"},
+              {"img":"/src/static/img/literature/hz3.jpg"}
+            ]
+          }  
+        },
+        {
+          "id":10,
+          "name": "人间失格(七五品)",
+          "author":"太宰治",
+          "price": 12,
+          "count":1,
+          "img":"/src/static/img/literature/rj.jpg",
+          "details":{
+            "introduce":"《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
+            "images":[
+              {"img":"/src/static/img/literature/rj1.jpg"},
+              {"img":"/src/static/img/literature/rj2.jpg"},
+              {"img":"/src/static/img/literature/rj3.jpg"}
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
