@@ -12,8 +12,8 @@ Vue.component('navHeader', NavHeader);
 //引入全局样式
 import './static/css/global.css';
 //导入MUI样式
-import './static/css/mui.css';
-import './static/css/mui.min.css';
+import './static/mui/css/mui.css';
+import './static/mui/css/mui.min.css';
 import 'mint-ui/lib/style.css';
 //导入mint-ui的组件
 import { Header, Swipe, SwipeItem, Button, Loadmore, Lazyload } from 'mint-ui';
